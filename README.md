@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EvenFlipper
+- 👀 I’m interested in programming, cybersecurity and game development.
+- 🌱 I’m currently learning python and overall the world of IT.
